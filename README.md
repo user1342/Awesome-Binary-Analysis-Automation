@@ -12,12 +12,29 @@ A comprehensive list of tools and resources for automating binary analysis, vuln
 - [IDA Pro](https://hex-rays.com/ida-pro/) - Advanced disassembler and reverse engineering tool with extensive scripting capabilities.
 - [Ghidra](https://ghidra-sre.org/) - NSA's reverse engineering framework offering disassembly, decompilation, and scripting.
 - [Binary Ninja](https://binary.ninja/) - Known for its intuitive UI and powerful scripting capabilities for various binary analysis tasks.
+- [Binwalk](https://github.com/ReFirmLabs/binwalk) - For firmware analysis, extraction, and reverse engineering.
+- [Firmware-Mod-Kit](https://github.com/rampageX/firmware-mod-kit) - Collection of scripts for modifying firmware images.
+- [Srecord](http://srecord.sourceforge.net/) - Tools for manipulating EPROM load files.
+- [Fwanalyzer](https://github.com/cruise-automation/fwanalyzer) - Firmware security analysis.
+- [Bat](https://github.com/sharkdp/bat) - A cat clone with syntax highlighting and Git integration.
+- [Fdiff](https://github.com/david-a-wheeler/flawfinder) - Identifies potential security flaws in source code.
+- [Entropy Analysis](https://github.com/david-a-wheeler/flawfinder) - Tool for analyzing the entropy of firmware files.
+- [Firmwalker](https://github.com/craigz28/firmwalker) - A script for searching the extracted firmware file system for goodies.
 
 ## Automated Reverse Engineering Tools
 - [Pharos](https://github.com/cmu-sei/pharos) - Carnegie Mellon University’s framework for automating reverse engineering tasks.
 - [Radare2](https://www.radare.org/) - Open-source framework for reverse engineering and binary analysis.
 - [Hopper](https://www.hopperapp.com/) - Disassembler for macOS and Linux with decompiling and debugging capabilities.
-- [EMBA](https://github.com/e-m-b-a/emba) - Analyzer for Linux-based firmware focusing on security aspects of embedded devices.
+- [Checksec](https://github.com/slimm609/checksec.sh) - Security checks for binaries.
+- [Cwe_checker](https://github.com/fkie-cad/cwe_checker) - Identifies common bug patterns in binaries.
+- [Yara](https://github.com/VirusTotal/yara) - Malware detection and classification.
+- [Searchsploit](https://www.exploit-db.com/searchsploit) - Command-line search tool for Exploit Database.
+- [Ghidra](https://ghidra-sre.org/) - A software reverse engineering (SRE) suite of tools developed by NSA.
+- [QEMU](https://www.qemu.org/) - Emulator for hardware virtualization used by EMBA for live testing modules.
+- [Firmadyne](https://github.com/firmadyne/firmadyne) - A full-system emulation tool for analyzing Linux-based firmware.
+- [CVE Search](https://github.com/cve-search/cve-search) - Searching for known vulnerabilities.
+- [Exploitdb](https://www.exploit-db.com/) - An archive of public exploits and corresponding vulnerable software.
+- [Dependency-check](https://github.com/jeremylong/DependencyCheck) - A software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.
 
 ## Automated Vulnerability Research Tools
 - [Unicorn Engine](https://www.unicorn-engine.org/) - CPU emulator framework used for binary analysis and vulnerability research.
