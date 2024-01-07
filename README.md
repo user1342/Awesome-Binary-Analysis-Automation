@@ -56,18 +56,12 @@ A comprehensive list of tools and resources for automating binary analysis, vuln
 ## Books
 - [Deep Learning: A Visual Approach](https://nostarch.com/deep-learning-visual-approach) - Introduces deep learning in an accessible way, using color illustrations and real-world examples.
 
-## Courses
-- [Automating Reverse Engineering with Machine Learning, Binary Analysis, and NLP](https://recon.cx) - Focuses on leveraging ML and NLP in reverse engineering tasks.
+## Videos
+- [Machine Learning & Program Analysis](https://ringzer0.training/archive/2022-august/machine-learning-program-analysis.html) - Discusses the application of ML to program analysis.
 
-# Misc
+## Misc
 - [DynamoRIO](https://www.dynamorio.org) - Runtime code manipulation system for dynamic analysis.
 - [Gdbgui](https://www.gdbgui.com) - Browser-based frontend for GNU Debugger.
 - [Insight](https://insight.labri.fr/) - Focuses on binary analysis for various purposes.
 - [Kaitai Struct](http://kaitai.io/) - Describes binary data structures in files or memory.
 
-
-
-## Videos
-- [Machine Learning & Program Analysis](https://ringzer0.training/archive/2022-august/machine-learning-program-analysis.html) - Discusses the application of ML to program analysis.
-
-Contributions to this list are welcome! For more details, please check out our [contribution guidelines](https://github.com/awesome-binary-analysis/contribute).
