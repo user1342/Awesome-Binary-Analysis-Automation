@@ -26,7 +26,20 @@ A comprehensive list of tools and resources for automating binary analysis, vuln
 # How to Use
 Awesome-Android-Reverse-Engineering is an amazing list for people who work in taking apart Android applications, systems, or components. Simply press ```ctrl + F``` to search for a keyword, go through our Contents Menu, or lookout for a '☆' indicating some great and up-to-date resources.
 
+# Contents
+ - [Tools](#tools)
+   - [Decompilers/ Dissasemblers](#decompilers-dissasemblers)
+   - [Automated Reverse Engineering](#automated-reverse-engineering)
+   - [Automated Vulnerability Detection](automated-vulnerability-detection)
+   - [Automated Malware Detection](#automated-malware-detection)
+   - [Emulation and Fuzzing](#emulation-and-fuzzing)
+   - [Binary Feature Extraction](#binary-feature-extraction)
+   - [Function Comparison and Diffing](#function-comparison-and-diffing)
+   - [Misc](#misc)
+- [Books](#books)
+- [Videos](#videos)
 
+# Tools 
 ## Decompilers/ Dissasemblers
 - [IDA Pro](https://hex-rays.com/ida-pro/) - Advanced disassembler and reverse engineering tool with extensive scripting capabilities.
 - [☆ Ghidra](https://ghidra-sre.org/) - NSA's reverse engineering framework offering disassembly, decompilation, and scripting.
@@ -78,15 +91,17 @@ Awesome-Android-Reverse-Engineering is an amazing list for people who work in ta
 - [☆ Tweezer](https://github.com/user1342/tweezer) - Identifies unknown function names in binaries.
 - [Just Another Differ](https://github.com/user1342/jad) - Diffing tool for binary files.
 
-## Books
-- [Deep Learning: A Visual Approach](https://nostarch.com/deep-learning-visual-approach) - Introduces deep learning in an accessible way, using color illustrations and real-world examples.
-
-## Videos
-- [Machine Learning & Program Analysis](https://ringzer0.training/archive/2022-august/machine-learning-program-analysis.html) - Discusses the application of ML to program analysis.
-
 ## Misc
 - [DynamoRIO](https://www.dynamorio.org) - Runtime code manipulation system for dynamic analysis.
 - [Gdbgui](https://www.gdbgui.com) - Browser-based frontend for GNU Debugger.
 - [Insight](https://insight.labri.fr/) - Focuses on binary analysis for various purposes.
 - [Kaitai Struct](http://kaitai.io/) - Describes binary data structures in files or memory.
+
+# Books
+- [Deep Learning: A Visual Approach](https://nostarch.com/deep-learning-visual-approach) - Introduces deep learning in an accessible way, using color illustrations and real-world examples.
+
+# Videos
+- [Machine Learning & Program Analysis](https://ringzer0.training/archive/2022-august/machine-learning-program-analysis.html) - Discusses the application of ML to program analysis.
+
+
 
