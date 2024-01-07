@@ -96,3 +96,10 @@ Awesome Binary Analysis Automation is an amazing list for people who work in tak
 
 - [FASER](https://github.com/br0kej/FASER) - Cross-Architecture Function Similarity Search Model.
 - [☆ Tweezer](https://github.com/user1342/tweezer) - Identifies unknown function names in binaries
+
+  ## Contributing
+Your contributions are always welcome! Please read the contribution guidelines first. We  follow the Contributor Covenant Code of Conduct. Please make sure to review and adhere to this code of conduct when contributing.
+
+## Licence <a href="LICENCE"> ![GitHub](https://img.shields.io/github/license/user1342/Awesome-Binary-Analysis-Automation) </a>
+This project is licensed under the MIT License - see the LICENSE.md file for details.
+
