@@ -1,6 +1,6 @@
 # Awesome Android Reverse Engineering
 <p align="center">
-   <img width=100% src="assets/cover.gif">
+   <img width=100% src="cover.gif">
  </a>
 </p>
 
