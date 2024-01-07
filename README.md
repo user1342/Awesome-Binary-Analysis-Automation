@@ -24,7 +24,7 @@ A comprehensive list of tools and resources for automating binary analysis, vuln
 </div>
 
 # How to Use
-Awesome-Android-Reverse-Engineering is an amazing list for people who work in taking apart Android applications, systems, or components. Simply press ```ctrl + F``` to search for a keyword, go through our Contents Menu, or lookout for a '☆' indicating some great and up-to-date resources.
+Awesome Binary Analysis Automation is an amazing list for people who work in taking apart Android applications, systems, or components. Simply press ```ctrl + F``` to search for a keyword, go through our Contents Menu, or lookout for a '☆' indicating some great and up-to-date resources.
 
 # Contents
  - [Tools](#tools)
