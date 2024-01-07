@@ -1,16 +1,14 @@
 # Awesome Binary Analysis Automation
+
 <p align="center">
    <img width=100% src="cover.gif">
- </a>
 </p>
-
 
 <p align="center">
 A comprehensive list of tools and resources for automating binary analysis, vulnerability research, and reverse engineering using various techniques like machine learning, scripting, and static/dynamic analysis.
-
+</p>
 
 <div align="center">
-
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/user1342/Awesome-Binary-Analysis-Automation)
 ![GitHub contributors](https://img.shields.io/github/contributors/user1342/Awesome-Binary-Analysis-Automation)
@@ -20,27 +18,30 @@ A comprehensive list of tools and resources for automating binary analysis, vuln
 <br>
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P7C2MM6)
 
-
 </div>
 
 # How to Use
-Awesome Binary Analysis Automation is an amazing list for people who work in taking apart Android applications, systems, or components. Simply press ```ctrl + F``` to search for a keyword, go through our Contents Menu, or lookout for a '☆' indicating some great and up-to-date resources.
+
+Awesome Binary Analysis Automation is an amazing list for people who work in taking apart Android applications, systems, or components. Simply press `ctrl + F` to search for a keyword, go through our Contents Menu, or look out for a '☆' indicating some great and up-to-date resources.
 
 # Contents
- - [Tools](#tools)
-   - [Decompilers/ Dissasemblers](#decompilers-dissasemblers)
-   - [Automated Reverse Engineering](#automated-reverse-engineering)
-   - [Automated Vulnerability Detection](automated-vulnerability-detection)
-   - [Automated Malware Detection](#automated-malware-detection)
-   - [Emulation and Fuzzing](#emulation-and-fuzzing)
-   - [Binary Feature Extraction](#binary-feature-extraction)
-   - [Function Comparison and Diffing](#function-comparison-and-diffing)
-   - [Misc](#misc)
+
+- [Tools](#tools)
+  - [Decompilers/ Disassemblers](#decompilers-disassemblers)
+  - [Automated Reverse Engineering](#automated-reverse-engineering)
+  - [Automated Vulnerability Detection](#automated-vulnerability-detection)
+  - [Automated Malware Detection](#automated-malware-detection)
+  - [Emulation and Fuzzing](#emulation-and-fuzzing)
+  - [Binary Feature Extraction](#binary-feature-extraction)
+  - [Function Comparison and Diffing](#function-comparison-and-diffing)
+  - [Misc](#misc)
 - [Books](#books)
 - [Videos](#videos)
 
 # Tools 
-## Decompilers/ Dissasemblers
+
+## Decompilers/ Disassemblers
+
 - [IDA Pro](https://hex-rays.com/ida-pro/) - Advanced disassembler and reverse engineering tool with extensive scripting capabilities.
 - [☆ Ghidra](https://ghidra-sre.org/) - NSA's reverse engineering framework offering disassembly, decompilation, and scripting.
 - [☆ Binary Ninja](https://binary.ninja/) - Known for its intuitive UI and powerful scripting capabilities for various binary analysis tasks.
@@ -48,8 +49,9 @@ Awesome Binary Analysis Automation is an amazing list for people who work in tak
 - [Hopper](https://www.hopperapp.com/) - Disassembler for macOS and Linux with decompiling and debugging capabilities.
 - [Jakstab](https://www.jakstab.org/) - Integrated disassembly and static analysis framework.
 - [GTIRB](https://github.com/GrammaTech/gtirb) - IR Binary analysis and rewriting data structure.
-  
+
 ## Automated Reverse Engineering
+
 - [Firmware-Mod-Kit](https://github.com/rampageX/firmware-mod-kit) - Collection of scripts for modifying firmware images.
 - [☆ Binwalk](https://github.com/ReFirmLabs/binwalk) - For firmware analysis, extraction, and reverse engineering.
 - [Firmwalker](https://github.com/craigz28/firmwalker) - A script for searching the extracted firmware file system for goodies.
@@ -60,6 +62,7 @@ Awesome Binary Analysis Automation is an amazing list for people who work in tak
 - [LIEF](https://lief.quarkslab.com/) - Parses, modifies, and abstracts binary formats.
 
 ## Automated Vulnerability Detection
+
 - [Fwanalyzer](https://github.com/cruise-automation/fwanalyzer) - Firmware security analysis.
 - [☆ Flawfinder](https://github.com/david-a-wheeler/flawfinder) - Tool for analyzing the entropy of firmware files.
 - [Fdiff](https://github.com/david-a-wheeler/flawfinder) - Identifies potential security flaws in source code.
@@ -72,9 +75,11 @@ Awesome Binary Analysis Automation is an amazing list for people who work in tak
 - [BinSkim](https://github.com/microsoft/binskim) - Analyzes PE and ELF binary formats for security and correctness.
 
 ## Automated Malware Detection
+
 - [Yara](https://github.com/VirusTotal/yara) - Malware detection and classification.
 
 ## Emulation and Fuzzing
+
 - [☆ QEMU](https://www.qemu.org/) - Emulator for hardware virtualization used by EMBA for live testing modules.
 - [Firmadyne](https://github.com/firmadyne/firmadyne) - A full-system emulation tool for analyzing Linux-based firmware.
 - [☆ Unicorn Engine](https://www.unicorn-engine.org/) - CPU emulator framework used for binary analysis and vulnerability research.
@@ -84,24 +89,10 @@ Awesome Binary Analysis Automation is an amazing list for people who work in tak
 - [DeepState](https://github.com/trailofbits/deepstate) - Framework for symbolic execution and fuzzing engines.
 
 ## Binary Feature Extraction
+
 - [☆ bin2ml](https://github.com/br0kej/bin2ml) - Extracting ML-ready data from software binaries.
 
 ## Function Comparison and Diffing
+
 - [FASER](https://github.com/br0kej/FASER) - Cross-Architecture Function Similarity Search Model.
-- [☆ Tweezer](https://github.com/user1342/tweezer) - Identifies unknown function names in binaries.
-- [Just Another Differ](https://github.com/user1342/jad) - Diffing tool for binary files.
-
-## Misc
-- [DynamoRIO](https://www.dynamorio.org) - Runtime code manipulation system for dynamic analysis.
-- [Gdbgui](https://www.gdbgui.com) - Browser-based frontend for GNU Debugger.
-- [Insight](https://insight.labri.fr/) - Focuses on binary analysis for various purposes.
-- [Kaitai Struct](http://kaitai.io/) - Describes binary data structures in files or memory.
-
-# Books
-- [Deep Learning: A Visual Approach](https://nostarch.com/deep-learning-visual-approach) - Introduces deep learning in an accessible way, using color illustrations and real-world examples.
-
-# Videos
-- [Machine Learning & Program Analysis](https://ringzer0.training/archive/2022-august/machine-learning-program-analysis.html) - Discusses the application of ML to program analysis.
-
-
-
+- [☆ Tweezer](https://github.com/user1342/tweezer) - Identifies unknown function names in binaries
