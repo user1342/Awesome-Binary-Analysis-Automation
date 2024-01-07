@@ -1,4 +1,4 @@
-# Awesome Android Reverse Engineering
+# Awesome Binary Analysis Automation
 <p align="center">
    <img width=100% src="cover.gif">
  </a>
