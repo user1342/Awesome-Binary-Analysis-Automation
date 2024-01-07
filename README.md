@@ -1,6 +1,30 @@
-# Awesome Binary Analysis Automation
+# Awesome Android Reverse Engineering
+<p align="center">
+   <img width=100% src="assets/cover.gif">
+ </a>
+</p>
 
+
+<p align="center">
 A comprehensive list of tools and resources for automating binary analysis, vulnerability research, and reverse engineering using various techniques like machine learning, scripting, and static/dynamic analysis.
+
+
+<div align="center">
+
+
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/user1342/Awesome-Binary-Analysis-Automation)
+![GitHub contributors](https://img.shields.io/github/contributors/user1342/Awesome-Binary-Analysis-Automation)
+![GitHub Repo stars](https://img.shields.io/github/stars/user1342/Awesome-Awesome-Binary-Analysis-Automation?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/user1342/Awesome-Binary-Analysis-Automation?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/user1342/Awesome-Binary-Analysis-Automation)
+<br>
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P7C2MM6)
+
+
+</div>
+
+
+
 
 ## Decompilers/ Dissasemblers
 - [IDA Pro](https://hex-rays.com/ida-pro/) - Advanced disassembler and reverse engineering tool with extensive scripting capabilities.
