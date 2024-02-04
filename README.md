@@ -87,6 +87,7 @@ Awesome Binary Analysis Automation is an amazing list for people who work in tak
 - [LibFuzzer](https://llvm.org/docs/LibFuzzer.html) - In-process fuzzing tool targeting specific functions.
 - [DECAF](https://github.com/sycurelab/DECAF) - QEMU-based binary analysis platform.
 - [DeepState](https://github.com/trailofbits/deepstate) - Framework for symbolic execution and fuzzing engines.
+- [oss-fuzz-gen](https://github.com/google/oss-fuzz-gen) - LLM powered fuzzing via OSS-Fuzz.
 
 ## Binary Feature Extraction
 
