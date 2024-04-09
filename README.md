@@ -60,6 +60,8 @@ Awesome Binary Analysis Automation is an amazing list for people who work in tak
 - [Triton](https://triton.quarkslab.com/) - Dynamic Binary Analysis (DBA) framework.
 - [Echo](https://github.com/Washi1337/Echo) - Static analysis, symbolic execution, and emulation framework.
 - [LIEF](https://lief.quarkslab.com/) - Parses, modifies, and abstracts binary formats.
+- [☆ Monocle](https://github.com/user1342/Monocle) - Large Language Model For Binary Analysis Search.
+
 
 ## Automated Vulnerability Detection
 
