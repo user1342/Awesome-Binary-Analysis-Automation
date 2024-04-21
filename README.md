@@ -16,7 +16,6 @@ A comprehensive list of tools and resources for automating binary analysis, vuln
 ![GitHub watchers](https://img.shields.io/github/watchers/user1342/Awesome-Binary-Analysis-Automation?style=social)
 ![GitHub last commit](https://img.shields.io/github/last-commit/user1342/Awesome-Binary-Analysis-Automation)
 <br>
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P7C2MM6)
 
 </div>
 
